@@ -17,3 +17,9 @@ source env/bin/activate
 ```shell
 pip install -r requirements.txt
 ```
+
+streamlit 실행
+
+```shell
+streamlit run filename.py
+```
